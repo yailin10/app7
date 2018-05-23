@@ -27,7 +27,7 @@
 	<allow-intent href="https://*/*"/>
 	<acces origin="https://*/*"/>
 	<allow-intent href="http://*/*"/>
-	<acess origin="http://*/"/>
+	<acess origin="http://*/*"/>
 	<plugin name="cordova-plugin-whitelist" source="npm"/>
 	
 	<!--plugins-->
